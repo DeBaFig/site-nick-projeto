@@ -33,7 +33,7 @@ function changeBrightness(factor, sprite) {
 }
 
 function displayVictoryMess(moves) {
-    document.getElementById("moves").innerHTML = "You Moved " + moves + " Steps.";
+    document.getElementById("moves").innerHTML = "Você andou  " + moves + " passos!";
     toggleVisablity("Message-Container");
 }
 
@@ -525,7 +525,7 @@ window.onload = function() {
     };
     sprite = new Image();
     sprite.src =
-        "https://image.ibb.co/dr1HZy/Pf_RWr3_X_Imgur.png" +
+        "../jogo/img/enzo.png" +
         "?" +
         new Date().getTime();
     sprite.setAttribute("crossOrigin", " ");
@@ -537,7 +537,7 @@ window.onload = function() {
     };
 
     finishSprite = new Image();
-    finishSprite.src = "https://image.ibb.co/b9wqnJ/i_Q7m_U25_Imgur.png" +
+    finishSprite.src = "../jogo/img/escola.png" +
         "?" +
         new Date().getTime();
     finishSprite.setAttribute("crossOrigin", " ");
