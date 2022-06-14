@@ -1,0 +1,12 @@
+* {
+    font-family: cursive;
+}
+
+.col-6 img {
+    max-height: 350px;
+}
+
+.carousel-item {
+    width: auto;
+    height: 100%;
+}
