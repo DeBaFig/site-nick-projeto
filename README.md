@@ -15,9 +15,10 @@
 <!--te-->
 
 
-## Sobre
+## Sobre  
 
-Dia 12 de junho é considerado o dia mundial da luta contra o trabalho infantil, sendo assim o colégio que meu filho [Nicholas](https://www.youtube.com/channel/UCoW6qTmHO5rUiHuvJ192ylQ) foi incentivado a fazer algum tipo de criação (desenho, trabalho manual , etc) com o tema relacionado, a Arlete, que trabalha como assistente social mencionou que poderia ser um trabalho em família então juntamente comigo e com meu esposo esse é o resultado do projeto, um site com um joguinho de levar a criança para escola.
+Dia 12 de junho é considerado o dia mundial da luta contra o trabalho infantil, assim o colégio que meu filho [Nicholas](https://www.youtube.com/channel/UCoW6qTmHO5rUiHuvJ192ylQ) foi incentivado a fazer algum tipo de criação (desenho, trabalho manual, etc) com o tema relacionado, a Arlete, que trabalha como assistente social mencionou que poderia ser um trabalho em família então eu e meu esposo ajudamos ele, e esse é o resultado do projeto, um site com um joguinho de levar a criança para escola.
+
 
 ## Detalhes
 
